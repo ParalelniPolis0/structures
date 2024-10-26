@@ -1,0 +1,13 @@
+{
+  "name": "@pp0/structures",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node lib/build.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
